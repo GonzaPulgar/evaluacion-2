@@ -1,0 +1,104 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: calibri, arial;
+}
+
+header {
+
+    border: solid;
+    background-color: #f790e5;
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+
+}
+
+header img {
+    border-radius: 100%;
+}
+
+#div_icon {
+    padding-left: 1%;
+}
+
+#nombre {
+    padding-left: 1%;
+
+}
+
+#div_enlace {
+    padding-left: 45%;
+    
+}
+
+
+#div_enlace ul li {
+    display: inline;
+}
+
+#bodindex {
+    background-image: url(https://media.istockphoto.com/id/1151551500/es/v%C3%ADdeo/resoluci%C3%B3n-4k-soft-lines-v%C3%ADdeo-en-stock.jpg?s=640x640&k=20&c=CeI0_cXfCHQY2PESWto_Yh2IxNac60b6jsCbZzpJsAk=);
+}
+
+#bodlog {
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-acuarela-abstracta-acuarela-pintada-mano_23-2149018547.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#galeria {
+    background-image: url(https://media.istockphoto.com/id/1358450443/es/v%C3%ADdeo/fondo-de-l%C3%ADneas-abstractas-turquesa-corporativas.jpg?s=640x640&k=20&c=b2n51h-KjiM2iU_7Pd1_vaJdFmYGChBcUouDCLaWQKk=); 
+    background-size: cover;
+    background-position: center; 
+}
+
+#sep {
+    height: 50px;
+}
+
+nav {
+    border: solid;
+    background-color: #fdf1ec;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+#fam1 {
+    height: 100px;
+    padding-right: 10%;
+    transform: scalex(-1);
+
+}
+
+#fam2 {
+    height: 100px;
+    padding-right: 10%;
+    
+}
+
+.mi_iframe {
+
+    width: 90%;
+    height: 350px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    background-image: url(https://www.ualberta.ca/folio/media-library/2023/04/230411-umbilical-cord-milking-main-16x9-3000px.jpg);
+    background-position: center;
+    background-size: 95%;
+}
+
+footer {
+    background-color: #b21bf8;
+    border: solid;
+    text-align: center;
+}
+    
+/*-------------------CSS para el login-------------------------*/
+
